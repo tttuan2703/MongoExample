@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace MongoExample.Services
 {
-    public class MoviesService : IMoviesService
+    public class PlayListService : IPlayListService
     {
-
+        public string Init()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

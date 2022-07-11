@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MongoExample.Contracts
+namespace MongoExample.DAL.Implementations
 {
-    public class IMoviesService
+    public class PlaylistRepository
     {
     }
 }

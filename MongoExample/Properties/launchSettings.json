@@ -1,0 +1,11 @@
+{
+  "MongoExample": {
+    "commandName": "Project",
+    "launchUrl": "https://localhost",
+    //"sslPort": 445,
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json"
+}

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MongoExample.Contracts
 {
-    internal class IBaseCollection
+    public interface IPlayListService
     {
+        public string Init();
     }
 }
